@@ -9,7 +9,7 @@ function constructor() {
   this.contentList = new ContentList();
   {
     const contentItems: Content[] = [
-      { id: 1, title: 'Love The Way You Lie', description: 'Favourite Song', creator: 'Rihana' },
+      { id: 1, title: '', description: 'Favourite Song', creator: 'Rihana' },
       { id: 2, title: 'Baby', description: 'it has record for most viewers', creator: 'Salman Khan' },
       { id: 3, title: 'Come Around me', description: 'this song is very popular', creator: 'Alex' }
     ];
